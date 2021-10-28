@@ -7,6 +7,14 @@ documentation before upgrading to a new release.
 
 Released closed milestones can be found on [GitHub](https://github.com/Icinga/icinga-powershell-plugins/milestones?state=closed).
 
+## 1.7.0 (2021-11-09)
+
+[Issue and PRs](https://github.com/Icinga/icinga-powershell-plugins/milestone/10?closed=1)
+
+## Bugfixes
+
+* [#233](https://github.com/Icinga/icinga-powershell-plugins/pull/233) Fixes used partition space plugin performance by fetching only partition space data instead of entire disk information collection and renamed it to represent the new method of being able to toggle between free and used space for partitions
+
 ## 1.6.0 (2021-09-07)
 
 [Issue and PRs](https://github.com/Icinga/icinga-powershell-plugins/milestone/8?closed=1)
