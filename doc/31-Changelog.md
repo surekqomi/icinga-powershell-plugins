@@ -18,6 +18,7 @@ Released closed milestones can be found on [GitHub](https://github.com/Icinga/ic
 ### Enhancements
 
 * [#199](https://github.com/Icinga/icinga-powershell-plugins/issues/199) Adds additional metadata to `Invoke-IcingaCheckDiskHealth` for disk serial number, assigned partitions, boot device, device id, system device and device name
+* [#237](https://github.com/Icinga/icinga-powershell-plugins/issues/237) Adds support for `Invoke-IcingaCheckHTTPStatus` to add the content of the website output by using the flag `-AddOutputContent`
 
 ## 1.6.0 (2021-09-07)
 
